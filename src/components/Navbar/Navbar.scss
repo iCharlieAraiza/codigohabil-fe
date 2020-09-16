@@ -1,0 +1,11 @@
+@import '../../scss/variables.scss';
+
+.navbar{
+    color: #fff;
+    background-color: $mainColor;
+    display: flex;
+    justify-content: center;
+    img{
+        width: 200px;
+    }
+}
